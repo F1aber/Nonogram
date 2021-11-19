@@ -1,0 +1,10 @@
+The rules are simple.
+Your aim in these puzzles is to colour the whole grid in to green and red squares. Beside each row of the grid are listed the lengths of the runs of green  squares on that row. 
+Above each column are listed the lengths of the runs of green squares in that column. These numbers tell you the runs of green squares in that row/column.
+So, if you see '10 1', that tells you that there will be a run of exactly 10 green squares, followed by one or more red square, followed by a single green square. 
+There may be more white squares before/after this sequence. If you see 0 (zero) it means - "I'm not telling you how many squares", so a column/row can contain any number of squares or gaps.
+
+HELPFUL HINTS:
+- To move around the playing field, use the keys W A S D;
+- Click E to start selecting cells;
+- Click Q to stop selecting cells.
