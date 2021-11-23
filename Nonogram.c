@@ -39,7 +39,7 @@ char rfile(){
 	char endorcont;
 	char *text=(char*)calloc(2,sizeof(char));
 	FILE *fp;
-	if ((fp = fopen("rules.txt","r")) == NULL){
+	if ((fp = fopen("rules.dat","r")) == NULL){
 		printf("File error\n");
 	}
 	else{
